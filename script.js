@@ -138,20 +138,20 @@ function onPageEnter(pageNum) {
 // Progressive difficulty - gets harder and harder to click "No"
 
 const noResponses = [
-    "Are you sure, Princess? 🥺",
-    "Really?? That hurt a little, Crush... 😢",
+    "Are you sure? 🥺",
+    "Really?? That hurt a little ... 😢",
     "Think again, please! 💔",
-    "My heart just cracked a little... 😭",
+    "My heart just cracked a little ... 😭",
     "Jake is running away but I'm not giving up! 😤",
-    "You're breaking my heart here, Princess... 💔😢",
+    "You're breaking my heart here ... 💔😢",
     "Please reconsider... for me? 🥺👉👈",
     "I promise I'll make you smile every day! 😊",
     "Even Finn wouldn't give up on Fiona! 🗡️",
-    "PLEASE! I'll go on any adventure for you, Crush! ⚔️",
+    "PLEASE! I'll go on any adventure for you! ⚔️",
     "Jake keeps running... just like my hope 🐕💨",
     "I'll share my last slice of everything burrito! 🌯",
     "Okay this is getting desperate... 😅",
-    "You're really gonna do this to me, Princess?! 💔",
+    "You're really gonna do this to me ?! 💔",
     "Fine... just click BMO already! 😤💖",
 ];
 
